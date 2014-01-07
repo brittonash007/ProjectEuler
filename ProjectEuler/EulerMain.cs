@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ProjectEuler.Solutions;
+using ProjectEuler.CustomTools;
 
 namespace ProjectEuler
 {
@@ -10,7 +11,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Euler1();
+            //Euler1();
         }
 
         private static void Euler1()
