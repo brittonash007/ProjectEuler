@@ -11,7 +11,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            //Euler1();
+            Euler1();
         }
 
         private static void Euler1()

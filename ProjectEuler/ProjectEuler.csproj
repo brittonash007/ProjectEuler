@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomTools\ExtensionMethods.cs" />
     <Compile Include="CustomTools\FibonacciSequence.cs" />
     <Compile Include="EulerMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
